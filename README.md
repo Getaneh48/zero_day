@@ -4,7 +4,6 @@
 
 <head>
 
-  <title>Hello, world!</title>
 
   <meta charset="UTF-8" />
 
